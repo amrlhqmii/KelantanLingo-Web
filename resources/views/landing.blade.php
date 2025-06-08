@@ -13,7 +13,7 @@
         <div class="container">
             <h1>KelantanLingo</h1>
             <p class="tagline">Your gateway to understanding the Kelantanese dialect</p>
-            <a href="https://drive.google.com/file/d/1MAFHuUodCdgQRHnKFlQ2Jyk3UjIdRdyN/view?usp=drive_link" class="download-btn">Download Now</a>
+            <a href="https://drive.google.com/drive/folders/13f-xsnQPAE-f1eQw_7jmyzCR5lL0wZ24?usp=drive_link" class="download-btn">Download Now</a>
         </div>
     </header>
 
